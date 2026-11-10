@@ -1,0 +1,17 @@
+﻿# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+
+# Media output directories
+screenshots/
+recordings/
+
+# Python cache
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
